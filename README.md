@@ -1,2 +1,4 @@
 # Monopole-dipole-Gen
-Analytical solutions of monopole and dipole under uniform incoming flow
+Analytical solution of 3D or 2D monopole and dipole under uniform flow conditions
+
+
